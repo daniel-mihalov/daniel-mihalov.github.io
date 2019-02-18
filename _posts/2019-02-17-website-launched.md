@@ -1,6 +1,6 @@
 layout: post
 title: "Daniel Mihalov's website has been launched"
-date: 2014-04-30
+date: 2019-02-17
 ---
 
 I created this website using a tutorial by jmcglone.com. Their default text is below...
